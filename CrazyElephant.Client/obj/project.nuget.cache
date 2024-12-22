@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/J6oCh0Hyt4=",
+  "success": true,
+  "projectFilePath": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\CrazyElephant.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\19816\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\19816\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\19816\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\bin\Debug\net8.0\CodeSnippetDemo.exe
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\bin\Debug\net8.0\CodeSnippetDemo.deps.json
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\bin\Debug\net8.0\CodeSnippetDemo.runtimeconfig.json
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\bin\Debug\net8.0\CodeSnippetDemo.dll
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\bin\Debug\net8.0\CodeSnippetDemo.pdb
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\obj\Debug\net8.0\CodeSnippetDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\obj\Debug\net8.0\CodeSnippetDemo.AssemblyInfoInputs.cache
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\obj\Debug\net8.0\CodeSnippetDemo.AssemblyInfo.cs
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\obj\Debug\net8.0\CodeSnippetDemo.csproj.CoreCompileInputs.cache
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\obj\Debug\net8.0\CodeSnippetDemo.dll
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\obj\Debug\net8.0\refint\CodeSnippetDemo.dll
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\obj\Debug\net8.0\CodeSnippetDemo.pdb
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\obj\Debug\net8.0\CodeSnippetDemo.genruntimeconfig.cache
+E:\00__Project_Files\00__WPF\TimothyLiuBinary\CodeSnippetDemo\obj\Debug\net8.0\ref\CodeSnippetDemo.dll

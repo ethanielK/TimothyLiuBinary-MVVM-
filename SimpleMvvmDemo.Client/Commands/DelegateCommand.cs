@@ -1,0 +1,31 @@
+﻿using System.Windows.Input;
+
+namespace SimpleMvvmDemo.Client.Commands
+{
+    class DelegateCommand : ICommand
+    {
+        public event EventHandler? CanExecuteChanged;
+
+        public bool CanExecute(object? parameter)
+        {
+            if (this.CanExexuteFunc != null)
+            {
+                return this.CanExexuteFunc(parameter);
+            }
+            return true;
+        }
+
+        public void Execute(object? parameter)
+        {
+            if (this.ExecuteAction == null)
+            {
+                return;
+            }
+
+            this.ExecuteAction(parameter);
+        }
+
+        public Action<object> ExecuteAction { get; set; }
+        public Func<object, bool> CanExexuteFunc { get; set; }
+    }
+}
