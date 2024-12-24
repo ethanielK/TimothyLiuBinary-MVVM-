@@ -3,23 +3,12 @@
   "WorkspaceRootPath": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{717D5225-D86D-44A3-9A00-E6E532F55F4B}|CrazyElephant.Client\\CrazyElephant.Client.csproj|e:\\00__project_files\\00__wpf\\timothyliubinary\\crazyelephant.client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{717D5225-D86D-44A3-9A00-E6E532F55F4B}|CrazyElephant.Client\\CrazyElephant.Client.csproj|solutionrelative:crazyelephant.client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{717D5225-D86D-44A3-9A00-E6E532F55F4B}|CrazyElephant.Client\\CrazyElephant.Client.csproj|e:\\00__project_files\\00__wpf\\timothyliubinary\\crazyelephant.client\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717D5225-D86D-44A3-9A00-E6E532F55F4B}|CrazyElephant.Client\\CrazyElephant.Client.csproj|solutionrelative:crazyelephant.client\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{717D5225-D86D-44A3-9A00-E6E532F55F4B}|CrazyElephant.Client\\CrazyElephant.Client.csproj|e:\\00__project_files\\00__wpf\\timothyliubinary\\crazyelephant.client\\services\\mockorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717D5225-D86D-44A3-9A00-E6E532F55F4B}|CrazyElephant.Client\\CrazyElephant.Client.csproj|solutionrelative:crazyelephant.client\\services\\mockorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717D5225-D86D-44A3-9A00-E6E532F55F4B}|CrazyElephant.Client\\CrazyElephant.Client.csproj|e:\\00__project_files\\00__wpf\\timothyliubinary\\crazyelephant.client\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717D5225-D86D-44A3-9A00-E6E532F55F4B}|CrazyElephant.Client\\CrazyElephant.Client.csproj|solutionrelative:crazyelephant.client\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717D5225-D86D-44A3-9A00-E6E532F55F4B}|CrazyElephant.Client\\CrazyElephant.Client.csproj|e:\\00__project_files\\00__wpf\\timothyliubinary\\crazyelephant.client\\viewmodels\\dishmenuitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717D5225-D86D-44A3-9A00-E6E532F55F4B}|CrazyElephant.Client\\CrazyElephant.Client.csproj|solutionrelative:crazyelephant.client\\viewmodels\\dishmenuitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19816\\.nuget\\packages\\prism.wpf\\8.1.97\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{717D5225-D86D-44A3-9A00-E6E532F55F4B}|CrazyElephant.Client\\CrazyElephant.Client.csproj|e:\\00__project_files\\00__wpf\\timothyliubinary\\crazyelephant.client\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{717D5225-D86D-44A3-9A00-E6E532F55F4B}|CrazyElephant.Client\\CrazyElephant.Client.csproj|solutionrelative:crazyelephant.client\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,65 +26,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MockOrderService.cs",
-              "DocumentMoniker": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\Services\\MockOrderService.cs",
-              "RelativeDocumentMoniker": "CrazyElephant.Client\\Services\\MockOrderService.cs",
-              "ToolTip": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\Services\\MockOrderService.cs",
-              "RelativeToolTip": "CrazyElephant.Client\\Services\\MockOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T13:19:59.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "CrazyElephant.Client\\MainWindow.xaml",
-              "ToolTip": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\MainWindow.xaml",
-              "RelativeToolTip": "CrazyElephant.Client\\MainWindow.xaml",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CrazyElephant.Client\\App.xaml.cs",
+              "ToolTip": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\App.xaml.cs",
+              "RelativeToolTip": "CrazyElephant.Client\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:44:43.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\App.xaml",
+              "RelativeDocumentMoniker": "CrazyElephant.Client\\App.xaml",
+              "ToolTip": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\App.xaml",
+              "RelativeToolTip": "CrazyElephant.Client\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-22T13:10:11.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "readme.txt",
-              "DocumentMoniker": "C:\\Users\\19816\\.nuget\\packages\\prism.wpf\\8.1.97\\readme.txt",
-              "ToolTip": "C:\\Users\\19816\\.nuget\\packages\\prism.wpf\\8.1.97\\readme.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-22T12:48:43.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DishMenuItemViewModel.cs",
-              "DocumentMoniker": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\ViewModels\\DishMenuItemViewModel.cs",
-              "RelativeDocumentMoniker": "CrazyElephant.Client\\ViewModels\\DishMenuItemViewModel.cs",
-              "ToolTip": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\ViewModels\\DishMenuItemViewModel.cs",
-              "RelativeToolTip": "CrazyElephant.Client\\ViewModels\\DishMenuItemViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T12:44:34.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "CrazyElephant.Client\\ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "E:\\00__Project_Files\\00__WPF\\TimothyLiuBinary\\CrazyElephant.Client\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeToolTip": "CrazyElephant.Client\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T12:38:53.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T12:44:38.95Z"
             }
           ]
         }

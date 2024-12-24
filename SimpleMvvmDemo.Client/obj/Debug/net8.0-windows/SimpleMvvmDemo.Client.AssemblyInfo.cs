@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleMvvmDemo.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70cf2d649f2c894514652804c1a2258afad77af2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleMvvmDemo.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleMvvmDemo.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
